@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Rock+Salt|Shadows+Into+Light|Cedarville+Cursive');
+
+.nav{
+    font-size: "2rem";
+    font-family: 'Shadows Into Light', cursive; 
+}
+
+.about a{
+    text-decoration: none;
+    color: white;
+}
+
+.app{
+
+    font-size: "2rem";
+    font-family: 'Shadows Into Light', cursive; 
+
+}
